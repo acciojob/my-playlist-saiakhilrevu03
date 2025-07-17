@@ -12,7 +12,7 @@ h1{
 	
 }
 ul{
-	height:100px;
+	height:130px;
 	width:80vw;
 	background:#fff;
 	padding:10px 20px;
@@ -21,16 +21,22 @@ ul{
 }
 ul li{
 	list-style-type:none;
-	
+	padding-top:5px;
 }
 li a{
 	text-decoration:none;
 	color:black;
 }
 div{
-	height:400px;
+	height:520px;
 	width:80vw;
 	background-color:#fff;
 	border:2px solid black;
 	border-radius:10px;
+}
+.player_one{
+	width:80vw;
+}
+.player_two{
+	width:80vw;
 }
