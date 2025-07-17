@@ -8,8 +8,10 @@ body{
 	font-family:sans-serif;
 }
 h1{
+	text-align:center;	
+}
+h2{
 	text-align:center;
-	
 }
 ul{
 	height:130px;
@@ -24,7 +26,7 @@ ul li{
 	padding-top:5px;
 }
 li a{
-	text-decoration:none;
+	text-decoration-line:none;
 	color:black;
 }
 div{
@@ -36,6 +38,7 @@ div{
 }
 .player_one{
 	width:80vw;
+	background-color: white;
 }
 .player_two{
 	width:80vw;
