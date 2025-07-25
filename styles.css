@@ -29,17 +29,22 @@ li a{
 	text-decoration-line:none;
 	color:black;
 }
-div{
-	height:520px;
-	width:80vw;
+.media{
+	height:600px;
+	width:85vw;
 	background-color:#fff;
 	border:2px solid black;
 	border-radius:10px;
 }
 .player_one{
 	width:80vw;
-	background-color: white;
+	background-color:rgb(255, 255, 255);
+	padding:10px 20px;
+	border-radius:5px;
 }
 .player_two{
+	background-color:rgb(255, 255, 255);
 	width:80vw;
+	padding:10px 20px;
+	border-radius:5px;
 }
